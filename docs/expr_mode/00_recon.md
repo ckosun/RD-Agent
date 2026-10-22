@@ -2,6 +2,8 @@
 
 Recon and documentation only. This change does not add expression-factor behavior and does not edit CoSTEER, experiment generation, or workflow internals.
 
+Use this file as the drift note against tag `v0.8.0`. Grey is implementing Phase 1 on a local checkout of `v0.8.0`. Phase 1 is not being implemented on this fork. Section 6 is the API difference between that tag and this `v1.0.0` `HEAD`.
+
 Official lineage: this checkout is `ckosun/RD-Agent`, parent `microsoft/RD-Agent`. `HEAD` matches `microsoft/RD-Agent` `main` and the GitHub tag `v1.0.0`. No third-party RD-Agent fork was used. AlphaAgent notes below are ideas from `https://github.com/RndmVariableQ/AlphaAgent` only. No AlphaAgent code is copied.
 
 ## 1. Pin
